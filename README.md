@@ -1,2 +1,2 @@
-# Tancredo-1B-PensamentoComputacional
-Desenvolvimento de site em HTML,CSS
+# Tancredo-1-B-Pensamento-Computacional
+Desinvolvimento de site em  HTML CSS 
